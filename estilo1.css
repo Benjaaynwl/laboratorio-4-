@@ -1,0 +1,10 @@
+body{
+    background: aquamarine;
+    text-align: center;
+    font-family: "Roboto",sans-serif;
+}
+.formulario input[type="checkbox"] {
+    display: none;
+    color: black;
+    
+}
